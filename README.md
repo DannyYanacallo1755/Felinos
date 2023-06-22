@@ -14,6 +14,7 @@ Esta clase es la clase base que representa a todos los felinos, que tiene dos at
 
 ![](Imagenes/Felinos.png)
 
+
 Subclases de la clase Felino:
 
 ![](Imagenes/Tigre.png)
@@ -22,13 +23,19 @@ Subclases de la clase Felino:
 ![](Imagenes/Puma.png)
 ![](Imagenes/Jaguar.png)
 
+
 Clase Main:
 Permimte la ejecucion del programa utilizando el método mostrarInformacion() de cada felino.
+
 ![](Imagenes/Main.png)
 ![](Imagenes/Main2.png)
 
-Funcionamiento del sistem
+
+Funcionamiento del sistema
+
 ![](Imagenes/Funcionamiento.png)
 
+
 Diagrama UML
+
 ![](Imagenes/UML.png)
