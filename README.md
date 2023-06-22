@@ -1,10 +1,9 @@
 # Felinos
 
 INSTRUCCIONES
+
 Con la temática felinos
-
 Diseñar un diagrama UML para las diferentes especies que pueda consultar.
-
 Implementar una aplicación que permita ingresar felinos de al menos 5 especies.
 
 DESARROLLO
